@@ -1,2 +1,2 @@
 # aadhar-security
-A research project exploring (and exposing) the security features of the Indian Aadhar system.
+A research project exploring (and exposing) the security features of the Indian Aadhaar system.
