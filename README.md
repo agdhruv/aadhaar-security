@@ -8,3 +8,6 @@ A research project exploring (and exposing) the security features of the Indian 
 * Rohan Poddar
 * Swagam Dasgupta
 * Vineet Reddy
+
+## Resources
+* LaTeX document (link for editing) - [here](https://www.overleaf.com/4681365947yttzkmyfttgp)
