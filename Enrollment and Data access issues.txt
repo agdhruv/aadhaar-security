@@ -1,0 +1,13 @@
+CONCERNS in the Privacy part
+(Basic Structure)
+
+De-duplication, nature of it and how effective and why not everyone.
+Access of ASA to the CADS.
+Who ASA are and what they can do.
+Who provides security to these ASA and AUA.
+Security protocols for sub-AUAs.
+Why ASA has been outsourced.
+How to become an ASA or an AUA.
+What the responses of the ASA or an AUA (Just boolean?).
+What is automatic datasync between CIDR and the enrolment egencies.
+What is stopping enrollment officers from stealing data and sharing it later. 
