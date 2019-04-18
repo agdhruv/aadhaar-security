@@ -5,6 +5,8 @@ A research project exploring (and exposing) the security features of the Indian 
 * Debayan Gupta
 * Dhruv Agarwal
 * Prakhar Jain
+* Preetha Datta
+* Pratyush Ranjan Tiwari
 * Rohan Poddar
 * Swagam Dasgupta
 * Vineet Reddy
